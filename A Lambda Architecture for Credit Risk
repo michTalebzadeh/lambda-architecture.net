@@ -1,0 +1,14 @@
+I have been working on some patterns for Lambda Architecture use in Credit Risk Systems in the investment Banks. The Ivestmewnt Banking is under a number of regultary constraints dealing with Anti-financial Crime (AFC) & Compliance technology domains.
+
+These domains involve specialist functions and skill sets within the banking industry.  A variety of vendor technology platforms, analytic models, large data management infrastructure and automated controls - some of which very new in the market and rapidly evolving -
+will need to be mastered and established within the banks processes and platforms.
+
+The main domains are Surveillance, Anti-Money Laundering, Anti-Bribery & Corruption, Employee Compliance, Anti-Fraud etc.
+
+Lamda Architecture is flexible enough to offer some form of solutions to these functional areas. It can provide reliable architecture for these needs with scalability and adaptibility in mind.
+
+I am in the process of adaptring the needs with the help Kafka, Spark, Spark Streaming, HDFS, Hbase, Hive and Druid.
+
+I have drawn a first cut pattern and would like to collaborate with others who are involved in these business areas.
+
+
